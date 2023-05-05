@@ -1,0 +1,23 @@
+{
+  "name": "xrpl-metaphysical-nft",
+  "version": "1.0.0",
+  "description": "Welcome to XRPL-Metaphysical-NFT-SDK, a ground-breaking project that bridges the physical and digital realms by connecting physical garments with digital NFTs minted on the XRP Ledger (XRPL).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ap0cene/XRPL-Metaphysical-NFT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ap0cene/XRPL-Metaphysical-NFT/issues"
+  },
+  "homepage": "https://github.com/ap0cene/XRPL-Metaphysical-NFT#readme",
+  "dependencies": {
+    "arweave": "^1.13.7",
+    "xrpl": "^2.7.0"
+  }
+}

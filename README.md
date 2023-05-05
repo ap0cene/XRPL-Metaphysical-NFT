@@ -28,9 +28,9 @@ This project is organized into several key directories:
 
 - `/nfc-integration`: [Read about NFC Integration](nfc-integration/README.md) 
 
-- `/metadata-management`: This is where you'll find the code for handling NFT metadata and pushing it to Arweave.
+- `/src/arweave.js`: This is where you'll find the code for handling NFT metadata and pushing it to Arweave.
 
-- `/nft-minting`: This directory holds the XRPL SDK-based code for minting NFTs that point to the Arweave metadata.
+- `/src/mint.js`: This file holds the XRPL SDK-based code for minting NFTs that point to the Arweave metadata.
 
 ## How to Contribute
 
