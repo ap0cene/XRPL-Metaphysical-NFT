@@ -1,6 +1,10 @@
 # XRPL Metaphysical NFT SDK
 
-Welcome to XRPL-Metaphysical-NFT-SDK, a ground-breaking project that bridges the physical and digital realms by connecting physical garments with digital NFTs minted on the XRP Ledger (XRPL). This repository provides a comprehensive SDK that allows users to embed Near Field Communication (NFC) chips into garments, which are linked to an NFT metadata file stored on Arweave. Furthermore, the SDK offers the functionality to mint NFTs on the XRPL that point to the Arweave metadata.
+Welcome to XRPL-Metaphysical-NFT-SDK, a ground-breaking project that bridges the physical and digital realms by connecting physical garments with digital NFTs minted on the XRP Ledger (XRPL). 
+
+You can read a more in depth article about how we're integrating this technology into the ap0cene fashion marketplace here: https://nft.ap0cene.com/
+
+This repository provides a comprehensive SDK that allows users to embed Near Field Communication (NFC) chips into garments, which are linked to an NFT minted on XRPL, with token metadata listed on Arweave. 
 
 ## Features
 
