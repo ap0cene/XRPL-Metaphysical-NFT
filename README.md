@@ -26,7 +26,7 @@ npm install xrpl
 
 This project is organized into several key directories:
 
-- `/nfc-integration`: This directory contains all instructions and code related to NFC chip embedding and encoding. 
+- `/nfc-integration`: [Read about NFC Integration](nfc-integration/README.md) 
 
 - `/metadata-management`: This is where you'll find the code for handling NFT metadata and pushing it to Arweave.
 
