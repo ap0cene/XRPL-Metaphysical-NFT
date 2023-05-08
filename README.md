@@ -1,5 +1,7 @@
 # XRPL Metaphysical NFT SDK
 
+#### This repo is a work in progress, and work on this protocol is on-goin
+
 Welcome to XRPL-Metaphysical-NFT-SDK, a ground-breaking project that bridges the physical and digital realms by connecting physical garments with digital NFTs minted on the XRP Ledger (XRPL). 
 
 <a href="https://nft.ap0cene.com/" target="_BLANK">You can read a more in depth article about how we're integrating this technology into the ap0cene fashion marketplace here</a>
