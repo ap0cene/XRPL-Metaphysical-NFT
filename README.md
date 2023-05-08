@@ -1,6 +1,6 @@
 # XRPL Metaphysical NFT SDK
 
-#### This repo is a work in progress, and work on this protocol is on-goin
+#### This repo is a work in progress, and work on this protocol is on-going
 
 Welcome to XRPL-Metaphysical-NFT-SDK, a ground-breaking project that bridges the physical and digital realms by connecting physical garments with digital NFTs minted on the XRP Ledger (XRPL). 
 
